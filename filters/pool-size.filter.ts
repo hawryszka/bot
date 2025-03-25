@@ -1,0 +1,1 @@
+// Usunąć cały kod związany z filtrem pool-size
